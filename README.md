@@ -1,3 +1,2 @@
 # mytask
-
-mkdir dockerfile
+`mkdir dockerfile`
